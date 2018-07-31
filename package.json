@@ -1,0 +1,81 @@
+{
+  "_from": "jspanel4@^4.0.0",
+  "_id": "jspanel4@4.1.0",
+  "_inBundle": false,
+  "_integrity": "sha512-cFhZDo3FeyS5GYXJaE0dUyaMWbaiRbgYpCzhi873muU5+4+JcdAK3a58ybxINdPVULDG3zpIoYHiLocD0714lQ==",
+  "_location": "/jspanel4",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "jspanel4@^4.0.0",
+    "name": "jspanel4",
+    "escapedName": "jspanel4",
+    "rawSpec": "^4.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^4.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jspanel4/-/jspanel4-4.1.0.tgz",
+  "_shasum": "21942e2ba052e3e07f3c076b23bd206091411747",
+  "_spec": "jspanel4@^4.0.0",
+  "_where": "C:\\Users\\Hammadi\\Documents\\iotpboard\\iotpboard\\ui",
+  "author": {
+    "name": "Stefan Straesser",
+    "email": "info@jspanel.de",
+    "url": "http://jspanel.de/"
+  },
+  "bugs": {
+    "url": "https://github.com/Flyer53/jsPanel4/issues",
+    "email": "info@jspanel.de"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A javascript tool to create highly configurable multifunctional floating panels for use in backend solutions and other web applications. Also usable as modal, tooltip, hint or contextmenu. With built in support for bootstrap (3 & 4), right-to-left text direction and a lot more ...",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "eslint": "^5.0.0",
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^7.0.0",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-babel-minify": "^0.4.0",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.0",
+    "node-sass": "^4.7.2"
+  },
+  "homepage": "http://jspanel.de",
+  "keywords": [
+    "javascript",
+    "jsPanel",
+    "panel",
+    "floating panel",
+    "ui",
+    "layout",
+    "popup",
+    "widget",
+    "window",
+    "modal",
+    "tooltip",
+    "hint",
+    "alert",
+    "notifier",
+    "contextmenu",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "main": "./es6module/jspanel.min.js",
+  "name": "jspanel4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flyer53/jsPanel4.git"
+  },
+  "version": "4.1.0"
+}
